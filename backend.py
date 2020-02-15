@@ -20,10 +20,10 @@ class connect():
             self.cur = self.conn.cursor()
 
             # create sql query and store it into variable
-            self.cmd = "SELECT * FROM dbo.sales FOR XML PATH('SALE'), ROOT('SALES')"
-        except Exception:
+            self.cmd = "SELECT a.* ,b.title,b.price,b.advance,b.pubdate,a.qty * b.price as payment FROM (select a.*,b.stor_name,b.stor_address,b.city,b.state,b.zip from dbo.sales as a inner join dbo.stores as b on a.stor_id = b.stor_id) as a inner join dbo.titles as b ON a.title_id = b.title_id FOR XML PATH('SALE'), ROOT('SALES')"
+        except Exception as obj:
             print('Error occur while initializing the connection.')
-            logger.error(Exception)
+            logger.error(obj)
 
 
     def xmlgenerate(self):
@@ -46,6 +46,6 @@ class connect():
                 f.writelines(self.dom)
 
             self.conn.close()
-        except Exception:
+        except Exception as obj:
             print('Error occur while generating xml.')
-            logger.error(Exception)
+            logger.error(obj)

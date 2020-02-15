@@ -7,6 +7,16 @@
 		<qty>5</qty>
 		<payterms>Net 60</payterms>
 		<title_id>BU1032</title_id>
+		<stor_name>Eric the Read Books</stor_name>
+		<stor_address>788 Catamaugus Ave.</stor_address>
+		<city>Seattle</city>
+		<state>WA</state>
+		<zip>98056</zip>
+		<title>The Busy Executive's Database Guide</title>
+		<price>19.9900</price>
+		<advance>5000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>99.9500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>6380</stor_id>
@@ -15,6 +25,16 @@
 		<qty>3</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS2091</title_id>
+		<stor_name>Eric the Read Books</stor_name>
+		<stor_address>788 Catamaugus Ave.</stor_address>
+		<city>Seattle</city>
+		<state>WA</state>
+		<zip>98056</zip>
+		<title>Is Anger the Enemy?</title>
+		<price>10.9500</price>
+		<advance>2275.0000</advance>
+		<pubdate>1991-06-15T00:00:00</pubdate>
+		<payment>32.8500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7066</stor_id>
@@ -23,6 +43,16 @@
 		<qty>50</qty>
 		<payterms>Net 30</payterms>
 		<title_id>PC8888</title_id>
+		<stor_name>Barnum's</stor_name>
+		<stor_address>567 Pasadena Ave.</stor_address>
+		<city>Tustin</city>
+		<state>CA</state>
+		<zip>92789</zip>
+		<title>Secrets of Silicon Valley</title>
+		<price>20.0000</price>
+		<advance>8000.0000</advance>
+		<pubdate>1994-06-12T00:00:00</pubdate>
+		<payment>1000.0000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7066</stor_id>
@@ -31,6 +61,16 @@
 		<qty>75</qty>
 		<payterms>ON invoice</payterms>
 		<title_id>PS2091</title_id>
+		<stor_name>Barnum's</stor_name>
+		<stor_address>567 Pasadena Ave.</stor_address>
+		<city>Tustin</city>
+		<state>CA</state>
+		<zip>92789</zip>
+		<title>Is Anger the Enemy?</title>
+		<price>10.9500</price>
+		<advance>2275.0000</advance>
+		<pubdate>1991-06-15T00:00:00</pubdate>
+		<payment>821.2500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7067</stor_id>
@@ -39,6 +79,16 @@
 		<qty>10</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS2091</title_id>
+		<stor_name>News &amp; Brews</stor_name>
+		<stor_address>577 First St.</stor_address>
+		<city>Los Gatos</city>
+		<state>CA</state>
+		<zip>96745</zip>
+		<title>Is Anger the Enemy?</title>
+		<price>10.9500</price>
+		<advance>2275.0000</advance>
+		<pubdate>1991-06-15T00:00:00</pubdate>
+		<payment>109.5000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7067</stor_id>
@@ -47,6 +97,16 @@
 		<qty>40</qty>
 		<payterms>Net 30</payterms>
 		<title_id>TC3218</title_id>
+		<stor_name>News &amp; Brews</stor_name>
+		<stor_address>577 First St.</stor_address>
+		<city>Los Gatos</city>
+		<state>CA</state>
+		<zip>96745</zip>
+		<title>Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean</title>
+		<price>20.9500</price>
+		<advance>7000.0000</advance>
+		<pubdate>1991-10-21T00:00:00</pubdate>
+		<payment>838.0000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7067</stor_id>
@@ -55,6 +115,16 @@
 		<qty>20</qty>
 		<payterms>Net 30</payterms>
 		<title_id>TC4203</title_id>
+		<stor_name>News &amp; Brews</stor_name>
+		<stor_address>577 First St.</stor_address>
+		<city>Los Gatos</city>
+		<state>CA</state>
+		<zip>96745</zip>
+		<title>Fifty Years in Buckingham Palace Kitchens</title>
+		<price>11.9500</price>
+		<advance>4000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>239.0000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7067</stor_id>
@@ -63,6 +133,16 @@
 		<qty>20</qty>
 		<payterms>Net 30</payterms>
 		<title_id>TC7777</title_id>
+		<stor_name>News &amp; Brews</stor_name>
+		<stor_address>577 First St.</stor_address>
+		<city>Los Gatos</city>
+		<state>CA</state>
+		<zip>96745</zip>
+		<title>Sushi, Anyone?</title>
+		<price>14.9900</price>
+		<advance>8000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>299.8000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -71,6 +151,16 @@
 		<qty>20</qty>
 		<payterms>Net 30</payterms>
 		<title_id>PS2091</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>Is Anger the Enemy?</title>
+		<price>10.9500</price>
+		<advance>2275.0000</advance>
+		<pubdate>1991-06-15T00:00:00</pubdate>
+		<payment>219.0000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -79,6 +169,16 @@
 		<qty>25</qty>
 		<payterms>Net 30</payterms>
 		<title_id>MC3021</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>The Gourmet Microwave</title>
+		<price>2.9900</price>
+		<advance>15000.0000</advance>
+		<pubdate>1991-06-18T00:00:00</pubdate>
+		<payment>74.7500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -87,6 +187,16 @@
 		<qty>20</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS1372</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>Computer Phobic AND Non-Phobic Individuals: Behavior Variations</title>
+		<price>21.5900</price>
+		<advance>7000.0000</advance>
+		<pubdate>1991-10-21T00:00:00</pubdate>
+		<payment>431.8000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -95,6 +205,16 @@
 		<qty>25</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS2106</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>Life Without Fear</title>
+		<price>7.0000</price>
+		<advance>6000.0000</advance>
+		<pubdate>1991-10-05T00:00:00</pubdate>
+		<payment>175.0000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -103,6 +223,16 @@
 		<qty>15</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS3333</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>Prolonged Data Deprivation: Four Case Studies</title>
+		<price>19.9900</price>
+		<advance>2000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>299.8500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7131</stor_id>
@@ -111,6 +241,16 @@
 		<qty>25</qty>
 		<payterms>Net 60</payterms>
 		<title_id>PS7777</title_id>
+		<stor_name>Doc-U-Mat: Quality Laundry and Books</stor_name>
+		<stor_address>24-A Avogadro Way</stor_address>
+		<city>Remulade</city>
+		<state>WA</state>
+		<zip>98014</zip>
+		<title>Emotional Security: A New Algorithm</title>
+		<price>7.9900</price>
+		<advance>4000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>199.7500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7896</stor_id>
@@ -119,6 +259,16 @@
 		<qty>15</qty>
 		<payterms>Net 60</payterms>
 		<title_id>BU7832</title_id>
+		<stor_name>Fricative Bookshop</stor_name>
+		<stor_address>89 Madison St.</stor_address>
+		<city>Fremont</city>
+		<state>CA</state>
+		<zip>90019</zip>
+		<title>Straight Talk About Computers</title>
+		<price>19.9900</price>
+		<advance>5000.0000</advance>
+		<pubdate>1991-06-22T00:00:00</pubdate>
+		<payment>299.8500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7896</stor_id>
@@ -127,6 +277,16 @@
 		<qty>10</qty>
 		<payterms>Net 60</payterms>
 		<title_id>MC2222</title_id>
+		<stor_name>Fricative Bookshop</stor_name>
+		<stor_address>89 Madison St.</stor_address>
+		<city>Fremont</city>
+		<state>CA</state>
+		<zip>90019</zip>
+		<title>Silicon Valley Gastronomic Treats</title>
+		<price>19.9900</price>
+		<advance>0.0000</advance>
+		<pubdate>1991-06-09T00:00:00</pubdate>
+		<payment>199.9000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>7896</stor_id>
@@ -135,6 +295,16 @@
 		<qty>35</qty>
 		<payterms>ON invoice</payterms>
 		<title_id>BU2075</title_id>
+		<stor_name>Fricative Bookshop</stor_name>
+		<stor_address>89 Madison St.</stor_address>
+		<city>Fremont</city>
+		<state>CA</state>
+		<zip>90019</zip>
+		<title>You Can Combat Computer Stress!</title>
+		<price>2.9900</price>
+		<advance>10125.0000</advance>
+		<pubdate>1991-06-30T00:00:00</pubdate>
+		<payment>104.6500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>8042</stor_id>
@@ -143,6 +313,16 @@
 		<qty>15</qty>
 		<payterms>ON invoice</payterms>
 		<title_id>MC3021</title_id>
+		<stor_name>Bookbeat</stor_name>
+		<stor_address>679 Carson St.</stor_address>
+		<city>Portland</city>
+		<state>OR</state>
+		<zip>89076</zip>
+		<title>The Gourmet Microwave</title>
+		<price>2.9900</price>
+		<advance>15000.0000</advance>
+		<pubdate>1991-06-18T00:00:00</pubdate>
+		<payment>44.8500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>8042</stor_id>
@@ -151,6 +331,16 @@
 		<qty>10</qty>
 		<payterms>ON invoice</payterms>
 		<title_id>BU1032</title_id>
+		<stor_name>Bookbeat</stor_name>
+		<stor_address>679 Carson St.</stor_address>
+		<city>Portland</city>
+		<state>OR</state>
+		<zip>89076</zip>
+		<title>The Busy Executive's Database Guide</title>
+		<price>19.9900</price>
+		<advance>5000.0000</advance>
+		<pubdate>1991-06-12T00:00:00</pubdate>
+		<payment>199.9000</payment>
 	</SALE>
 	<SALE>
 		<stor_id>8042</stor_id>
@@ -159,6 +349,16 @@
 		<qty>25</qty>
 		<payterms>Net 30</payterms>
 		<title_id>BU1111</title_id>
+		<stor_name>Bookbeat</stor_name>
+		<stor_address>679 Carson St.</stor_address>
+		<city>Portland</city>
+		<state>OR</state>
+		<zip>89076</zip>
+		<title>Cooking with Computers: Surreptitious Balance Sheets</title>
+		<price>11.9500</price>
+		<advance>5000.0000</advance>
+		<pubdate>1991-06-09T00:00:00</pubdate>
+		<payment>298.7500</payment>
 	</SALE>
 	<SALE>
 		<stor_id>8042</stor_id>
@@ -167,5 +367,15 @@
 		<qty>30</qty>
 		<payterms>Net 30</payterms>
 		<title_id>PC1035</title_id>
+		<stor_name>Bookbeat</stor_name>
+		<stor_address>679 Carson St.</stor_address>
+		<city>Portland</city>
+		<state>OR</state>
+		<zip>89076</zip>
+		<title>But Is It User Friendly?</title>
+		<price>22.9500</price>
+		<advance>7000.0000</advance>
+		<pubdate>1991-06-30T00:00:00</pubdate>
+		<payment>688.5000</payment>
 	</SALE>
 </SALES>

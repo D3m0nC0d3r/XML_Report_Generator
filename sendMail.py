@@ -27,9 +27,9 @@ class mailsend():
                     file_name = f.name
 
                 self.msg.add_attachment(file_data, maintype='application', subtype='octet-stream',filename=file_name)
-        except Exception:
+        except Exception as obj:
             print('Error occur while initializing the mail.')
-            logger.error(Exception)
+            logger.error(obj)
 
     def msent(self):
         try:
@@ -39,6 +39,6 @@ class mailsend():
                 smtp.ehlo()
                 smtp.login('##your email', '##your password')
                 smtp.send_message(self.msg)
-        except Exception:
+        except Exception as obj:
             print('Error occur while sending mail.')
-            logger.error(Exception)
+            logger.error(obj)
