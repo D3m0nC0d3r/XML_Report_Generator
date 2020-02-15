@@ -1,0 +1,6 @@
+1. import libraries or modules basically for sql server connection, mail, and datetime.
+2. create connection to sql server db.
+3. Logic for retrieving desired data into xml format.
+4. send mail with xml reports attached to desired mail.
+5. add exceptions in each logics.
+6. create a log file for adding the activities and errors with datetime. 
