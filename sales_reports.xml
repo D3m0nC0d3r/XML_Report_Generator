@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<SALES>
+	<SALE>
+		<stor_id>6380</stor_id>
+		<ord_num>6871</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>5</qty>
+		<payterms>Net 60</payterms>
+		<title_id>BU1032</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>6380</stor_id>
+		<ord_num>722a</ord_num>
+		<ord_date>1994-09-13T00:00:00</ord_date>
+		<qty>3</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS2091</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7066</stor_id>
+		<ord_num>A2976</ord_num>
+		<ord_date>1993-05-24T00:00:00</ord_date>
+		<qty>50</qty>
+		<payterms>Net 30</payterms>
+		<title_id>PC8888</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7066</stor_id>
+		<ord_num>QA7442.3</ord_num>
+		<ord_date>1994-09-13T00:00:00</ord_date>
+		<qty>75</qty>
+		<payterms>ON invoice</payterms>
+		<title_id>PS2091</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7067</stor_id>
+		<ord_num>D4482</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>10</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS2091</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7067</stor_id>
+		<ord_num>P2121</ord_num>
+		<ord_date>1992-06-15T00:00:00</ord_date>
+		<qty>40</qty>
+		<payterms>Net 30</payterms>
+		<title_id>TC3218</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7067</stor_id>
+		<ord_num>P2121</ord_num>
+		<ord_date>1992-06-15T00:00:00</ord_date>
+		<qty>20</qty>
+		<payterms>Net 30</payterms>
+		<title_id>TC4203</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7067</stor_id>
+		<ord_num>P2121</ord_num>
+		<ord_date>1992-06-15T00:00:00</ord_date>
+		<qty>20</qty>
+		<payterms>Net 30</payterms>
+		<title_id>TC7777</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>N914008</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>20</qty>
+		<payterms>Net 30</payterms>
+		<title_id>PS2091</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>N914014</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>25</qty>
+		<payterms>Net 30</payterms>
+		<title_id>MC3021</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>P3087a</ord_num>
+		<ord_date>1993-05-29T00:00:00</ord_date>
+		<qty>20</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS1372</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>P3087a</ord_num>
+		<ord_date>1993-05-29T00:00:00</ord_date>
+		<qty>25</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS2106</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>P3087a</ord_num>
+		<ord_date>1993-05-29T00:00:00</ord_date>
+		<qty>15</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS3333</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7131</stor_id>
+		<ord_num>P3087a</ord_num>
+		<ord_date>1993-05-29T00:00:00</ord_date>
+		<qty>25</qty>
+		<payterms>Net 60</payterms>
+		<title_id>PS7777</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7896</stor_id>
+		<ord_num>QQ2299</ord_num>
+		<ord_date>1993-10-28T00:00:00</ord_date>
+		<qty>15</qty>
+		<payterms>Net 60</payterms>
+		<title_id>BU7832</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7896</stor_id>
+		<ord_num>TQ456</ord_num>
+		<ord_date>1993-12-12T00:00:00</ord_date>
+		<qty>10</qty>
+		<payterms>Net 60</payterms>
+		<title_id>MC2222</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>7896</stor_id>
+		<ord_num>X999</ord_num>
+		<ord_date>1993-02-21T00:00:00</ord_date>
+		<qty>35</qty>
+		<payterms>ON invoice</payterms>
+		<title_id>BU2075</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>8042</stor_id>
+		<ord_num>423LL922</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>15</qty>
+		<payterms>ON invoice</payterms>
+		<title_id>MC3021</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>8042</stor_id>
+		<ord_num>423LL930</ord_num>
+		<ord_date>1994-09-14T00:00:00</ord_date>
+		<qty>10</qty>
+		<payterms>ON invoice</payterms>
+		<title_id>BU1032</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>8042</stor_id>
+		<ord_num>P723</ord_num>
+		<ord_date>1993-03-11T00:00:00</ord_date>
+		<qty>25</qty>
+		<payterms>Net 30</payterms>
+		<title_id>BU1111</title_id>
+	</SALE>
+	<SALE>
+		<stor_id>8042</stor_id>
+		<ord_num>QA879.1</ord_num>
+		<ord_date>1993-05-22T00:00:00</ord_date>
+		<qty>30</qty>
+		<payterms>Net 30</payterms>
+		<title_id>PC1035</title_id>
+	</SALE>
+</SALES>
