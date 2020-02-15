@@ -1,13 +1,22 @@
 import smtplib
 from email.message import EmailMessage
+import logging
+
+logger = logging.getLogger("sm_Error.logs")
+hdlr = logging.FileHandler("./Logs/sm_Error.logs")
+formater = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formater)
+logger.addHandler(hdlr)
+logger.setLevel(logging.ERROR)
+
 
 class mailsend():
     def __init__(self):
         try:
             self.msg = EmailMessage()
             self.msg['Subject'] = "Sales report testing"
-            self.msg['From'] = 'siddharth.warwatkar@outlook.com'
-            self.msg['To'] = 'siddevil938@gmail.com'
+            self.msg['From'] = 'sender mail'
+            self.msg['To'] = 'receiver mail'
             self.msg.set_content("Report attached....")
 
             files = ['sales_reports.xml']
@@ -18,8 +27,9 @@ class mailsend():
                     file_name = f.name
 
                 self.msg.add_attachment(file_data, maintype='application', subtype='octet-stream',filename=file_name)
-        except:
+        except Exception:
             print('Error occur while initializing the mail.')
+            logger.error(Exception)
 
     def msent(self):
         try:
@@ -27,7 +37,8 @@ class mailsend():
                 smtp.ehlo()
                 smtp.starttls()
                 smtp.ehlo()
-                smtp.login('siddharth.warwatkar@outlook.com', 'Devil@931986')
+                smtp.login('##your email', '##your password')
                 smtp.send_message(self.msg)
-        except:
+        except Exception:
             print('Error occur while sending mail.')
+            logger.error(Exception)
